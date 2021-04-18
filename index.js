@@ -31,8 +31,8 @@ const nestedMuppet = {
   nestedJob: 'Host of The Muppet Show',
   nestedPartner: 'Miss Piggy'
 };
-const { ,Moving Right Along,,I Hope That Something Better Comes Along} =nestedMuppet.theMuppetMovie ;
-const{, , ,Host of The Muppet Show,Miss Piggy}=nestedMuppet;
+const { ,song2, ,song4} =nestedMuppet.theMuppetMovie ;
+const{, , ,  nestedJob,nestedPartner}=nestedMuppet;
 
 // Strings
 
